@@ -69,7 +69,7 @@ k = int(list(dic_res.keys())[0])
 list_koef = list(dic_res.values())
 # print(list_koef)
 
-equation = 'Y = '
+equation = 'Y =  '
 
 if k >= 2:
     for i in range(len(list_koef)-2):
